@@ -3,6 +3,9 @@
 ## Introduction:
 The Sales Tax Automation Utility is a Python-based application designed to streamline the process of calculating and filing sales tax returns for businesses in Pakistan. The utility is built using the PyQt5 framework and relies on the Pandas library for data manipulation and analysis. It is capable of processing Oracle output and generating the Annexure form required by the Federal Board of Revenue (FBR).
 
+<img> ![Snap1](https://github.com/kashifnaz/Sales-Tax-Automation-Utility/assets/39775989/80ddeaac-ed45-46f0-a2f7-fe379feb00d2)
+<img> ![Snap2](https://github.com/kashifnaz/Sales-Tax-Automation-Utility/assets/39775989/278ae949-aaf0-4ef9-be3c-26bc7d676376)
+
 ## Features:
 
 1. Oracle Output Processing: The utility can import Oracle output files and process them automatically, extracting the necessary data to generate the Annexure form.
